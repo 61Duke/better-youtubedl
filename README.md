@@ -18,9 +18,8 @@ Download using pip via pypi.
 Instructions for use
 --------------------------------------
 
-引入库中的实例对象
-----------------------
 ```
+# import the module
 from betubedl import Better_Youtube_Downloader
 
 # I study in Korea, open youtube home page, all beautiful girls dancing, I also inevitably vulgar. Instantiate the object and pass the video URL you want to download as a parameter string to the instance
